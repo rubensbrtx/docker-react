@@ -9,14 +9,8 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            DevOps Project 2019
+            DevOps San Francisco 2022
           </p>
-	  <p>
-	    2021 Goals
-	  </p>
-	  <p>
-	   Monitoria carai !!!!
-	  </p>  
          <a
             className="App-link"
             href="https://reactjs.org"
